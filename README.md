@@ -14,6 +14,7 @@ Documentación del proyecto formativo **ServiLift** (certificación de ascensore
 | 2 | [Semana 1 — Por qué probar y primer E2E](02-semana-01-por-que-probar-y-primer-e2e.md) | Teoría, Playwright, cobertura, lo implementado y preguntas del vocero |
 | 3 | [Semana 2 — Pruebas unitarias y CI](03-semana-02-pruebas-unitarias-y-ci.md) | FIRST, valores límite, mutación, GitHub Actions, lo implementado y preguntas del vocero |
 | 4 | [Proyecto ServiLift completo](04-proyecto-servilift.md) | Negocio, arquitectura, stack y para qué sirve cada cosa, estructura, instalación y versiones |
+| 5 | [Documento completo en Word](05-ServiLift_Documentacion.docx) | Documento único para presentar: requisitos, casos de uso y datos por rol, diagramas, API, instalación y pruebas |
 
 ## Resumen de lo implementado (semanas 1 y 2)
 
