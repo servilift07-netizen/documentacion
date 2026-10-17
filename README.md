@@ -15,6 +15,7 @@ Documentación del proyecto formativo **ServiLift** (certificación de ascensore
 | 3 | [Semana 2 — Pruebas unitarias y CI](03-semana-02-pruebas-unitarias-y-ci.md) | FIRST, valores límite, mutación, GitHub Actions, lo implementado y preguntas del vocero |
 | 4 | [Proyecto ServiLift completo](04-proyecto-servilift.md) | Negocio, arquitectura, stack y para qué sirve cada cosa, estructura, instalación y versiones |
 | 5 | [Documento completo en Word](05-ServiLift_Documentacion.docx) | Documento único para presentar: requisitos, casos de uso y datos por rol, diagramas, API, instalación y pruebas |
+| 6 | [Requisitos completos y pendientes](06-requisitos-completos-y-pendientes.md) | Qué requisitos del documento están completos, cuáles faltan y el porcentaje de avance |
 
 ## Resumen de lo implementado (semanas 1 y 2)
 
